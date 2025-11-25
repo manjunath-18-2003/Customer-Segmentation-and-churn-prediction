@@ -28,7 +28,9 @@ plt.ylabel("Subscription Age(months)") # Added y-label for completeness
 plt.title("OOT Customer Segmentation") # Added title for completeness
 plt.legend() # Added legend for completeness
 plt.show() # Display the plot
-
+ 
+   
+# churn-predition 
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd # Added import for pandas
@@ -63,3 +65,5 @@ plt.show() # Corrected plot.show() to plt.show()
 
 from google.colab import drive
 drive.mount('/content/drive')
+
+
